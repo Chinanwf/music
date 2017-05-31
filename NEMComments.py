@@ -19,7 +19,7 @@ import sys
 from math import *
 
 userId = '';
-results = [];
+results = [248670352];
 playList_ids = [];
 url = 'http://music.163.com/weapi/v1/resource/comments/R_SO_4_29393669/?csrf_token=';
 
